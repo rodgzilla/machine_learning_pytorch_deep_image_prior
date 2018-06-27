@@ -1,4 +1,4 @@
-# Pytorch Deep Image Prior
+# PyTorch Deep Image Prior
 
 Implementation of the denoising part of the [Deep Image
 Prior](https://arxiv.org/abs/1711.10925) paper in PyTorch. This
